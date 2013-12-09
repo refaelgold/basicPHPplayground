@@ -26,31 +26,10 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: רפאל
+ * User: nir goldman
  * Date: 13/10/13
  * Time: 08:18
  */
-//conection:
-
-
-//$link = mysqli_connect("localhost","refaelgold","blacksheep17","php_pure") or die("Error " . mysqli_error($link));
-
-//$link = mysqli_connect("myhost","myuser","mypassw","mybd") or die("Error " . mysqli_error($link));
-
-//consultation:
-//
-//$query = "SELECT name FROM mytable" or die("Error in the consult.." . mysqli_error($link));
-//
-////execute the query.
-//
-//$result = $link->query($query);
-//
-////display information:
-//
-//while($row = mysqli_fecth_array($result)) {
-//    echo $row["name"] . "<br>";
-//}
-
 
 
 
